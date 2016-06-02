@@ -2,7 +2,7 @@
 
 ### Wojciech Rzepecki
 
-[x] [Link to app deployed on Heroku](https://checklist-rails-project.herokuapp.com)  
+- [x] [Link to app deployed on Heroku](https://checklist-rails-project.herokuapp.com)  
 
 |          |     Version   |
 |----------|:-------------:|
