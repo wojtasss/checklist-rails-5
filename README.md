@@ -2,7 +2,6 @@
 
 ### Wojciech Rzepecki
 1. Zaliczenie:
-  -     [x] [Checklist](https://github.com/wojtasss/checklist-project-tsi-rails) 
   -     [x] [link do wdrożonej na zewnętrznym serwerze aplikacji](https://checklist-rails-project.herokuapp.com)  
 
 |          |     Wersja    |
