@@ -1,8 +1,8 @@
 # Ruby on Rails Project
 
 ### Wojciech Rzepecki
-1. Zaliczenie:
-  -     [x] [Link to app deployed on Heroku](https://checklist-rails-project.herokuapp.com)  
+
+[x] [Link to app deployed on Heroku](https://checklist-rails-project.herokuapp.com)  
 
 |          |     Version   |
 |----------|:-------------:|
